@@ -18,5 +18,6 @@
     "node.js": "^0.0.1-security",
     "sors": "^1.0.2",
     "uuid": "^9.0.1"
+    "webpack-dev-middleware": "^7.1.0"
   }
 }
